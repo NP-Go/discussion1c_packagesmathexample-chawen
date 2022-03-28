@@ -6,7 +6,7 @@ import (
 )
 
 func main() {
-	q := 34.0
+	q := 16.0
 	r := 8.0
 
 	s := math.Mod(q, r)
